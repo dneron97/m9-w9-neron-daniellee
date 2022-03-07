@@ -128,7 +128,7 @@ footer {
   background-color: var(--gray);
   text-align: center;
   text-transform: uppercase;
-  padding: 100px 0;
+  padding: 24px 0;
   color: var(--off-white);
 }
 
@@ -136,3 +136,9 @@ footer {
   main article {
     width: fit-content
   }
+
+@media only screen and (max-width: 480px) {
+  footer {
+    width:fit-content
+  }
+}
