@@ -139,6 +139,7 @@ footer {
 
 @media only screen and (max-width: 480px) {
   footer {
-    width:fit-content
+    width:fit-content;
+    padding: 50px;
   }
 }
