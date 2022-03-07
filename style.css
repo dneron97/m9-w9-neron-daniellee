@@ -134,7 +134,7 @@ footer {
 
 @media only screen and (max-width: 480px) {
   main article {
-    width: fit-content;
+    width: 50px;
+    height: 20px;
   }
 
-  
