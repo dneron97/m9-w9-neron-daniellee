@@ -59,7 +59,8 @@ main > article, nav{
 }
 
 nav {
-  text-align: center
+  text-align: center;
+  position: relative;
 }
 
 nav > a:not(:first-of-type){
