@@ -59,7 +59,7 @@ main > article, nav{
 }
 
 nav {
-  display: none
+  text-align: center;
 }
 
 nav > a:not(:first-of-type){
