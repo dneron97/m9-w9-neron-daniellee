@@ -120,6 +120,7 @@ main > article img {
   height: auto;
   margin-right: 24px;
   margin-bottom: 6px;
+  text-align: center;
 }
 
 footer {
